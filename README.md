@@ -25,7 +25,7 @@ Welcome to the Real-Time Chat Application, a web-based platform that combines se
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/aashutosh148/ChatServer`
+1. Clone the repository: `git clone https://github.com/aashutosh148/ChatRoom-with-auth`
 2. Install dependencies: `npm install`
 3. Set up the environment variables by creating a `.env` file in the root directory and adding the variables: `SESSION_SECRET`: A secret key for signing and encrypting the session data.
 1. Start the application: `npm start`
